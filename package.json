@@ -1,0 +1,11 @@
+{
+  "name": "zenn-stock-trading",
+  "version": "1.0.0",
+  "description": "自動取引ログ — Zenn GitHub 連携用",
+  "scripts": {
+    "preview": "npx zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.150"
+  }
+}
